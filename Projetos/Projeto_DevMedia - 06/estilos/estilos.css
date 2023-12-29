@@ -1,0 +1,64 @@
+body
+{
+    background-color:white;
+    font-family: "Tahoma"
+}
+
+div
+{
+    margin:30px auto 110px auto;
+    width: 900px;
+    text-align:center;
+}
+
+img
+{
+    right: 52px;
+    width:200px
+}
+
+h1
+{
+    font-size: 28px;
+}
+
+h2
+{
+    font-size: 20px;
+}
+
+p
+{
+    font-size: 13px;
+    margin:25px;
+    line-height:25px; 
+}
+
+a
+{
+    font-size: 13px;
+    text-decoration: none;
+    border-radius: 90px;
+    padding: 15px 35px;
+    color: white;
+    background-color:rgb(49, 131, 49);
+    font-weight:bold;
+    margin:50px 20px
+}
+
+span
+{
+    font-weight:bold;
+}
+
+h3
+{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+
+
+
+
