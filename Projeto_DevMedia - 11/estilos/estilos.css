@@ -1,0 +1,93 @@
+.topo
+{
+    background-color: black;
+    color: gold;
+    text-align: center;
+    border-bottom: 1px solid #d5960054;
+    position: fixed;
+    width: 100%;
+    top:0;
+    height: 120px;
+}
+.topo a 
+{
+    color:rgb(179, 155, 25);
+    padding: 5px;
+}
+
+.banner img
+{
+    border-color: black;
+    width: 100vw;
+}
+
+.dimensão-imagem 
+{
+    width: 400px;
+    height: 220px;
+    margin-left: 120px;
+} 
+.dimensão-imagem2
+{
+    width: 400px;
+    height: 220px;
+    margin-left: 100px;
+}
+
+.sobre
+{
+    width: 650px;
+    height: 450px;
+    margin: 5px auto;
+}
+.Consultores
+{
+    width: 600px;
+    height: 350px;
+    margin: 5px auto;
+}
+
+
+.sobre .paragrafo, .sobre h2
+{
+    text-align: center;
+}
+
+.Consultores h2
+{
+    text-align: center;
+}
+
+.sobre span
+{
+    color: rgb(192, 166, 16);
+    font-weight: bold;
+}
+.Endereço
+{
+    height: 500px;
+    margin: 0px auto;
+    width: 650px;
+    margin-top: 10px;
+
+}
+.Consultores a
+{
+    color: rgb(192, 166, 16);
+}
+
+.roda-pé
+{
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    font-size: 18px;
+}
+.roda-pé span
+{
+    text-decoration:underline;
+    color: rgb(192, 166, 16);
+}

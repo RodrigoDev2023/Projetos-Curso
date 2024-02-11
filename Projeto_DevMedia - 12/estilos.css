@@ -1,0 +1,217 @@
+body
+{
+    margin: 0;
+}
+
+.topo
+{
+    height: 70px;
+    background-color: #5a2b03;
+    width: 100%;
+    position: fixed;
+    font-family: 'Oswald', Times, serif;
+    font-size: 15px; 
+    top: 0; 
+}
+.topo img
+{
+    width: 70px;
+    height: 60px;
+    left: 150px;
+    position: relative;
+    top: 5px;
+}
+.topo a
+{
+    text-decoration: none;
+    color: #c4a47c;
+    padding: 7px;
+    left: 750px;
+    bottom: 20px;
+    position: relative;
+    text-shadow: 3px 5px 2px #000000
+}
+
+.banner
+{
+    background-image: url("imagens/parallax-imagem1.png"); 
+    background-size: cover;
+    width: 100%;
+    height: 700px;
+    background-attachment: fixed;
+}    
+
+.banner h1
+{
+    color: white;
+    font-size: 50px;
+    padding: 300px;
+    font-family: 'Fraunces', serif;
+    position: relative;
+    right: 90px;
+    top: 20px;
+}
+.subtitulo-2
+{
+    height: 350px;
+    width: 990px;   
+    margin: 5px auto 5px auto ;
+    text-align: center;
+    line-height: 30px;
+}
+.subtitulo-2 h2
+{
+    color: #c4a47c;
+    font-family: 'Oswald', sans-serif;
+    margin-top: 20px;
+    padding: 25px;
+}
+.subtitulo-2 p
+{
+    font-family:'Lato', sans-serif;
+    color: rgba(0, 0, 0, 0.5);  
+}
+.subtitulo-3
+{
+    background-image: url("imagens/parallax-imagem2.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    height: 350px;
+}
+.subtitulo-3 h3
+{
+    color: white;
+    padding: 10px; 
+    background-color:#604829;
+    display: inline;
+    position: relative;
+    top: 200px;
+    left: 550px;
+}
+.subtitulo-4
+{
+    background-image: url("imagens/parallax-imagem3.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    height: 350px;
+} 
+.subtitulo-4 h3
+{
+    color: white;
+    padding: 10px; 
+    background-color:#604829;
+    display: inline;
+    position: relative;
+    top: 200px;
+    left: 550px;
+}
+.mapa
+{
+    background-image: url("imagens/parallax-imagem4.png");
+    background-attachment:fixed;
+    background-size: cover;
+    text-align: center;
+    height: 700px;
+    padding: 50px;
+}
+
+.mapa h2
+{
+   padding: 5px;
+   border: 5px #604829 solid;
+   width: 350px;
+   margin: 5px auto 30px auto;
+   background-color: #604829;
+   color: white;
+}
+.mapa p
+{
+    padding: 5px;
+    border: 5px #604829 solid;
+    width: 350px;
+    margin: 0px auto 0px auto;
+    background-color: #604829;
+    color: white;
+    font-size: 13px;
+}
+.mapa1
+{
+    margin-bottom: 50px;
+}
+
+
+.lista
+{
+    background-image: url("imagens/cafeteria.jpg");
+    background-attachment:fixed;
+    background-size: cover;
+    height: 550px;
+    color: white;
+    padding: 75px;
+
+}
+.rodape
+{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 70px;
+    padding: 15px;
+}
+.botão
+{
+    position: relative;
+}
+.botão a
+{
+    position: absolute;
+    bottom: 65px;
+    right: 35px;
+}
+span
+{
+    color: #c4a47c;
+}
+
+.lista li 
+{
+    position: relative;
+}
+.lista li div{
+    width: 70%;
+    height: 1px;
+    position: absolute;
+    left: 200px;
+    bottom:10px;
+    background-color: #acacac
+}
+.lista h2
+{
+    text-align: center;
+}
+
+.lista h3
+{
+    position: absolute;
+    top: -25px;
+    left: 95px;
+
+}
+
+.lista li p 
+{
+    position: absolute;
+    bottom: -10px;
+    right: 40px;
+}
+.lista span
+{
+    position: absolute;
+    bottom: 3px;
+    right: 70px;
+}
+
+
+
+   
+    

@@ -1,0 +1,143 @@
+body
+{
+    margin: 0;
+    width: 100%;
+}
+.topo
+{
+    height: 75px;
+    display: flex;
+    justify-content: space-around;
+    padding: 7px; 
+    align-items: center; 
+    flex-wrap: wrap; 
+}
+.topo img
+{
+    width: 150px;
+    height: 70px;
+}
+.link a 
+{
+    padding: 13px;
+    text-decoration: none;
+    font-size: 19px;
+    color: black;
+}
+.banner
+{
+    background-image: url("imagens/bg-estacao.jpg");
+    height: 300px;
+    width: 100%;
+    background-size: cover;
+    background-position: 100%;
+    color: white;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.banner h1
+{
+    font-size: 60px;
+    margin-bottom: 0px;
+}
+
+.banner p
+{  
+    font-size: 30px;
+    margin-top: 0px;
+}
+.Sobre
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 805px;
+    height: 1200px;
+    margin: 5px auto 10px auto;
+}
+h3
+{
+    font-size: 27px;
+}
+.texto p::first-letter{
+    font-size: 28px;
+    font-weight: bold;
+}
+.pontos_turisticos
+{
+    height: 900px;
+    padding: 5px;
+    background-color: rgb(221, 219, 219);
+}
+.pontos_turisticos
+{   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.Sobre img, .pontos img
+{
+    width: 800px;
+    height: 600px;
+}
+.pontos p::first-letter
+{
+    font-size: 28px;
+    font-weight: bold;
+}
+.pontos ul
+{
+    list-style-type: none;
+}
+.lista ul::before
+{
+    content:"";
+    width: 30px;
+    height: 30px;
+    background-image: url("imagens/seta.png");
+    background-size: cover;
+}
+.galeria
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+}
+.galeria_fotos img
+{
+    width: 250px;
+    height: 200px;
+    opacity: 50%;
+}
+
+.galeria_fotos
+{
+    display: flex;
+    flex-wrap:wrap;
+    gap: 5px;
+    width: 800px;
+}
+.galeria_fotos img:hover
+{
+    opacity: 100%;
+}
+.roda_pe
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;  
+    background-color: rgb(212, 151, 20);
+}
+
+
+

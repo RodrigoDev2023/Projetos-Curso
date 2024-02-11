@@ -1,0 +1,155 @@
+body
+{
+    font-family: "Poppins";
+    width: 100%;
+    margin: 0;
+}
+.logo
+{
+    width: 65px;
+    height: 65px;
+}
+.topo
+{
+    width: 100%;
+    height: 90px;
+    position: relative;
+    background-color: #2f86d6;;
+    padding: 10px;
+}
+.topo h1
+{
+    position: absolute;
+    top: 5px;
+    left: 360px;
+    font-size: 25px;
+}
+.topo p
+{
+    position: absolute;
+    top: 46px;
+    left: 360px;
+    color: #fff;
+    font-size: 13px;
+}
+.topo img
+{
+    position: relative;
+    left: 275px;
+    top: 9px;
+}
+.topo h1, .topo p , .topo a
+{
+    display: inline;
+}
+
+.topo a
+{
+    text-decoration: none;
+    padding: 7px;
+    position: relative;
+    left: 700px;
+    bottom: 15px;
+    color:#fff;
+    font-size: 14px;
+}
+.tabela
+{
+    width: 70%;
+    padding: 50px;
+    margin: 5px auto 5px auto;
+    position: relative;
+}
+
+.destaque-1
+{
+    font-size: 11px;
+    color: #a8a4a4;
+    background-color: #f6f6f6;
+    position: relative;
+    top: 20px;
+    
+}
+.destaque-2
+{
+    background-color: #f6f6f6;
+}
+
+.destaque-3
+{
+    background-color: #f6f6f6;
+    width: 450px;
+    height: 7px;
+    padding: 15px;
+    padding-left: 30px;
+    font-size: 13px;
+    font-weight: bold;
+}
+.destaque-4
+{
+    text-align: center;
+    width: 300px;
+    font-size: 13px;
+}
+.destaque-5 
+{
+    text-align: center;   
+    width: 15px;
+    height: 15px;
+    background-color: #2f86d6;
+    border-radius: 100%;
+    position: relative;
+    left: 70px;
+    color: #2f86d6;
+    
+}
+.INFORMAÇÕES
+{
+    background-color: #2f86d6;
+    width: 100%;
+    height: 150px;
+    padding: 30px;
+    position: relative;
+    
+}
+
+.INFORMAÇÕES img
+{
+    position: absolute;
+    left: 530px;
+    top: 55px;
+}
+
+.INFORMAÇÕES h2
+{
+    position: absolute;
+    left: 607px;
+    top: 40px;
+}
+.paragrafo-1
+{
+    position: absolute;
+    left: 607px;
+    top: 85px; 
+    color: #fff;
+    font-size: 13px;
+}
+.paragrafo-2
+{
+    position: absolute;
+    left: 420px;
+    top: 125px;
+    color: #fff;
+    font-size: 13px;
+}
+span
+{
+    color:#2f86d6;
+}
+.rodape
+{
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    font-weight:bold ;
+}

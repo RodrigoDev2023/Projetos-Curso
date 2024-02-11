@@ -1,0 +1,105 @@
+.topo
+{
+    background-color: #4710c1;
+    height: 45px; 
+    padding-top: 19px;
+}
+.Sinopse, .Disponibilidade
+{
+    color: #4710c1;
+    background-color: white;
+    padding: 6px 13px 6px 15px;
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 11px;
+    
+}
+
+
+a:hover
+{
+    background-color: black;
+    color: white;
+}
+
+.Titulo
+{
+    display: inline;
+    font-size: 23px;
+    color: white;
+    margin-right: 45px;
+    margin-left: 160px;
+}
+.imagem-capa
+{
+    width: 100%;
+}
+.Sinopse-paragrafo
+{
+    height: 200px;
+    width: 955px;
+    margin-left: 180px;
+    margin-top: 30px;
+}
+
+.Sinopse-paragrafo h2
+{
+    text-align: center;
+    font-weight:bold;
+    font-size:25px;
+    margin-bottom: 30px;
+}
+.Sinopse-paragrafo p
+{
+    font-size: 17px;
+}
+.Disponibilidade-paragrafo
+{
+    height: 560px;
+    width: 955px;
+    margin-left: 180px;
+    margin-bottom: 30px;
+}
+.Disponibilidade-paragrafo h2
+{
+    text-align: center;
+}
+.Disponibilidade-paragrafo img
+{
+    margin-left:90px;
+}
+.Disponibilidade-paragrafo p
+{
+    margin-left:105px;
+}
+
+.imagens
+{ 
+    display: flex;
+    overflow-x:scroll;
+    margin: 0 auto 20px auto;
+}
+.imagens img
+{  
+    width: 315px;
+    margin: 10px;
+}
+.fim-tela {
+    width: 100%;    
+    font-size: 16px;
+    font-family: sans-serif;
+    text-align: center;
+    background: #4710c1;
+    color: #fff;
+    padding: 12px 0;
+}
+.link
+{
+    display: inline;
+    margin-right: 5px;
+}
+.teste
+{
+    margin-bottom: 15px;
+}

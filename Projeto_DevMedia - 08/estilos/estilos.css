@@ -1,0 +1,214 @@
+.topo-tela
+{
+    margin:-10px auto 20px auto;
+    text-align: center;
+    background-color:#afddfb;
+    height:220px;
+}
+.logo
+{
+    margin-top: 30px;
+    margin-bottom: 5px;
+
+}
+.menu
+{
+    margin: 6px;
+    font-family: Arial;
+    color: black;
+}
+.banner
+{
+    width: 1200px;
+    margin: 40px auto 50px auto;
+    
+}
+.banner img
+{
+    width: 1200px;
+    height: 400px;
+ 
+}    
+h1
+{
+    text-align:center;
+    font-family: Verdana;
+    font-size: 25px;
+    margin-bottom: -5px;
+  
+}
+h2
+{
+    text-align: center;
+    color:#2389a8; 
+    font-size: 22px;    
+}
+
+.sobre
+{
+    text-align: center;
+    height: 550px;
+    
+
+}
+
+.sobre img
+{
+    margin-top: 30px;
+    width: 450px;
+    height: 300px;
+    margin: 5px auto;
+     
+}
+
+.sobre span
+{
+    color:#2389a8; 
+
+}
+
+.sobre p
+{
+    font-size: 17px;
+    width: 850px;
+    margin: 10px auto 10px auto;
+    text-align: left;
+}
+.serviços
+{
+    text-align: center;
+    font-family: Verdana;
+    background-color: rgb(32, 134, 218);
+    color: white;
+    height: 550px;
+    padding:50px 300px 50px 300px;
+    font-size:20px;
+}
+.serviços h3
+{
+    font-size: 22px;
+}
+    
+.serviços span, .final span
+{
+    color:rgb(236, 221, 4);
+    font-weight: bold;
+}
+
+.serviços li
+{
+    text-align: justify;
+    padding:6px;
+    
+}
+
+.serviços ul
+{
+    padding-top: 40px;
+    padding-left: 330px;
+}
+.corretores
+{
+    margin-top: 35px;
+    margin-bottom: 70px;
+    text-align: center;
+}
+.corretores img
+{
+    width: 450px;
+    height: 300px;
+}
+.corretores h3
+{
+    font-family: Verdana;
+    color: #227381;
+    font-size: 19px;
+}
+.corretores span
+{
+    color: #2389a8;
+}
+.corretores p
+{
+    padding-left:255px;
+    text-align: justify;
+    width: 885px;
+    font-size: 18px;
+}
+.final
+{
+    text-align: center;
+    background-color:rgb(32, 134, 218);
+    color: white;
+    font-family: Verdana;
+    height: 670px;
+}
+.final h3
+{
+    padding-top:40px;
+    padding-bottom: 10px;
+}
+.final iframe
+{
+    width:850px;
+    height:350px;
+}
+.final ul
+{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    text-decoration: underline;
+    color: #3dc1e9;   
+       
+}
+.format1
+{
+    padding: 1px;  
+    background-color: white; 
+    margin: 6px auto 6px auto;
+    width: 220px;
+    border-radius:5px;
+}    
+
+.format2    
+{
+    padding: 1px;  
+    background-color: white; 
+    margin: 10px auto 6px auto;
+    width: 170px;
+    border-radius:5px;
+}
+
+.format3
+{
+    padding: 1px;  
+    background-color: white; 
+    margin: 10px auto 6px auto;
+    width: 130px;
+    border-radius:5px;
+}
+
+.final p
+{
+  padding: 15px;
+  background-color: black;
+  width: 900px;
+  margin:30px auto 10px auto;
+}  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
