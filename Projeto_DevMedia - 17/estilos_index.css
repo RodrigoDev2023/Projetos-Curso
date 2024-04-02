@@ -170,23 +170,8 @@ footer
 
 @media (max-width: 768px)
 {
-    .topo 
-    {
-          height: 140px;
-          display: flex;
-          flex-direction: column;
-    }
 
-    nav
-    {
-        border-top: 1px solid;
-        padding: 10px;
-    }
 
-    .topo a
-    {
-         padding: 30px;
-    }
 }
 
 @media (max-width: 425px)
@@ -196,17 +181,20 @@ footer
           height: 185px;
           display: flex;
           flex-direction: column;
+          
     }
 
     nav
     {
         border-top: 1px solid;
         padding: 10px;
+        display: flex;
+        justify-content: space-evenly;
     }
 
     .topo a
     {
-         padding: 15px;
+         padding: 10px;
     }
 }
 
