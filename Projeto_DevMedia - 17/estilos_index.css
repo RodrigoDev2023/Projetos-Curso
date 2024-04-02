@@ -168,17 +168,6 @@ footer
     }
 }
 
-@media (max-width: 425px)
-{
-    .topo a
-    {
-        color: blue;
-        justify-content: space-around;
-        margin-top: 2px solid;
-        text-align: center;
-    }
-}
-
 @media (max-width: 768px)
 {
     .topo 
