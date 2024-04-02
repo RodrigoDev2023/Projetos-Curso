@@ -183,7 +183,6 @@ footer
           flex-direction: column;
           
     }
-
     nav
     {
         border-top: 1px solid;
@@ -191,10 +190,14 @@ footer
         display: flex;
         justify-content: space-evenly;
     }
-
     .topo a
     {
          padding: 10px;
+    }
+    .banner
+    {
+        height: 200px;
+        font-size: 15px;
     }
 }
 
