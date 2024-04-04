@@ -180,6 +180,7 @@ footer
         padding: 10px;
         display: flex;
         justify-content: space-evenly;
+        width: 95%;
     }
     .topo a
     {
@@ -191,7 +192,40 @@ footer
         display: flex;
         font-size: 13px;
     }
-
+    .img_medico img 
+    {
+        display: none;
+    }
+    .Sobre 
+    {
+        font-size: 18px;
+    }
+    .Sobre_titulo p 
+    {
+        width: 450px;
+        margin: 5px auto 20px auto;
+    }
+    .Especialidades
+    {
+        font-size: 18px;
+    }
+    .Especialidades_titulo p 
+    {
+        width: 450px;
+        margin: 5px auto 20px auto;
+    }
+    .cads
+    {
+        height: 900px;
+    }
+    .botao_1
+    {
+        padding: 30px;
+    }
+    footer
+    {
+        font-size: 18px;
+    }
 }
 
 @media (max-width: 425px)
@@ -209,6 +243,7 @@ footer
         padding: 10px;
         display: flex;
         justify-content: space-evenly;
+        width: 95%;
     }
     .topo a
     {
@@ -219,6 +254,40 @@ footer
         height: 200px;
         display: flex;
         font-size: 13px;
+    }
+    .img_medico img 
+    {
+        display: none;
+    }
+    .Sobre 
+    {
+        font-size: 18px;
+    }
+    .Sobre_titulo p 
+    {
+        width: 450px;
+        margin: 5px auto 20px auto;
+    }
+    .Especialidades
+    {
+        font-size: 18px;
+    }
+    .Especialidades_titulo p 
+    {
+        width: 450px;
+        margin: 5px auto 20px auto;
+    }
+    .cads
+    {
+        height: 900px;
+    }
+    .botao_1
+    {
+        padding: 30px;
+    }
+    footer
+    {
+        font-size: 18px;
     }
 }
 
