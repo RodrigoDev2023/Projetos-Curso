@@ -233,6 +233,10 @@ footer
 
 @media (max-width: 425px)
 {
+    body 
+    {
+        overflow-x: hidden;
+    }
     .topo 
     {
           height: 150px;
