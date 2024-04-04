@@ -166,7 +166,10 @@ footer
 
 @media (max-width: 768px)
 {
-
+    body 
+    {
+        overflow-x: hidden;
+    }
     .topo 
     {
           height: 150px;
@@ -265,7 +268,7 @@ footer
     }
     .Sobre_titulo p 
     {
-        width: 450px;
+        width: 400px;
         margin: 5px auto 20px auto;
     }
     .Especialidades
@@ -274,7 +277,7 @@ footer
     }
     .Especialidades_titulo p 
     {
-        width: 450px;
+        width: 400px;
         margin: 5px auto 20px auto;
     }
     .cads
