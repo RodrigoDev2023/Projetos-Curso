@@ -1,0 +1,136 @@
+body
+{
+    margin: 0;
+    font-family: 'Source Sans Pro', 'sans-serif';
+}
+.topo
+{
+    height: 75px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(23, 216, 223);
+    padding: 10px;
+}
+
+.logo img
+{
+    width: 180px;
+    height: 90px;
+}
+.link_2 a 
+{
+    text-decoration: none;
+    font-size: 21px;
+    color: white;
+    padding: 11px;
+}
+.links 
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+}
+.links a 
+{
+    text-decoration: none;
+    border-bottom: 3px solid rgb(23, 216, 223);
+    color: black;
+    font-size: 19px;
+    margin: 10px;
+}
+.Titulo 
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+}
+.Titulo h1
+{
+    font-size: 27px;
+    color: rgba(0, 0, 0, 0.589);
+}
+.Cads
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 440px;
+}
+.Titulo_Cads
+{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    width: 600px;
+    color: rgba(0, 0, 0, 0.589); ;
+}
+
+.Titulo_Cads h2
+{
+    font-size: 22px;
+    margin-bottom: 6px;
+}
+
+.Titulo_Cads p
+{
+    font-size: 20px;
+}
+.Cads img
+{
+    width: 290px;
+    height: 230px;
+}
+table
+{
+    border-spacing: 0; 
+}
+.tabela_Cads
+{
+    display: flex;
+}
+.cabeçalho_tabela th
+{
+    width: 200px;
+    text-align: left;
+    padding: 9px;
+    background-color: rgb(23, 216, 223); 
+    color: white;
+}
+.primeira_linha td
+{
+    background-color: rgba(207, 204, 204, 0.904);
+}
+.segunda_linha td
+{
+    background-color: #f3f2f2e7;
+}
+.terceira_linha td
+{
+    background-color: rgba(207, 204, 204, 0.904);
+}
+.quarta_linha
+{
+    background-color: #f3f2f2e7;
+}
+.quinta_linha
+{
+    background-color: rgba(207, 204, 204, 0.904);
+}
+footer
+{
+    text-align: center;
+    height: 350px;
+    line-height: 28px;
+    background-color: rgba(24, 94, 82, 0.918);
+    width: 100%;
+    margin: 2px auto 2px auto;
+    color: white;
+    font-size: 20px;
+    margin-top: 30px;
+}
+
