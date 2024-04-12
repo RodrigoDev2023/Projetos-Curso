@@ -297,5 +297,25 @@ footer
         font-size: 18px;
     }
 }
+ /* Estilo botões */
 
+ .link:hover
+ {
+    width: 190px;
+    height: 95px;
+ }
+
+
+ .link_1:hover  
+ {
+    color: rgba(0, 0, 0, 0.781);
+    font-size: 25px;
+    font-weight: bold;
+ }
+ .botao_1:hover a 
+ {
+    background-color: orange;
+    color: black;
+    font-weight: bold;
+ }
 
