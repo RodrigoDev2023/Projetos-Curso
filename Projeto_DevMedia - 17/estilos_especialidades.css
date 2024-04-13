@@ -221,6 +221,12 @@ footer
     {
         overflow-x: hidden;
     }
+    .Titulo h1
+    {
+        font-size: 14px;
+        text-align: center;
+
+    }
     .topo 
     {
           height: 150px;
@@ -242,6 +248,7 @@ footer
         display: flex;
         justify-content: space-evenly;
         width: 100%;
+        font-size: 13px;
     }
     .topo a
     {
